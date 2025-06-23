@@ -153,7 +153,7 @@ export function AuraPage() {
 
             <canvas
                 ref={canvasRef}
-                width={300}
+                width={301}
                 height={300}
                 className="aura-canvas"
             />
