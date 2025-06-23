@@ -1,0 +1,6 @@
+fetch yaps with the user twitter name
+'log in' needs to change to user's profile icon when the user logs in
+On successful sign in, redirect to overview
+
+
+ok this is basically creating a global gamertag with on chain activity etc..
